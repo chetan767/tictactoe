@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+
+    <string name="xt">Player X Turn</string>
+    <string name="ot">Player O Turn</string>
+    <string name="x">Player X Wins</string>
+    <string name="o">Player O Wins</string>
+
+</resources>
